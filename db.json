@@ -2,58 +2,53 @@
   "events": [
     {
       "id": 101,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day for Cat Lovers!",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "petsAllowed":true,
-      "organizer": "Kat Laydee"
+      "category": "Daily Pray",
+      "title": "FAJR",
+      "description": "First pray of the day before sun rises",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "06:20",
+      "petsAllowed":false,
+      "organizer": "Islamic Youth"
     },
     {
       "id": 102,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
+      "category": "Daily Pray",
+      "title": "Zuhr",
+      "description": "Join us on time together in Jamat we can pray",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "01:30",
       "petsAllowed":false,
-      "organizer": "Fern Pollin"
+      "organizer": "Islamic Youth"
     },
     {
       "id": 103,
-      "category": "Community Service",
-      "title": "Learning",
-      "description": "Help people to learn Quran",
-      "location": "Elmhurst, Mosque",
-      "date": "March 22, 2024",
-      "time": "3:00 PM",
+      "category": "Daily Pray",
+      "title": "ASR",
+      "description": "Join us on time together in Jamat we can pray",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "6:00 PM",
       "petsAllowed":false,
-      "organizer": "Youth Group"
+      "organizer": "Islamic Youth Group"
     },
     {
       "id": 104,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
+      "category": "Daily Pray",
+      "title": "Magrib",
+      "description": "Join us on time together we can do the worship to Allah",
+      "location": "Masjid Al-Taufiq",
+      "time": "07:14",
       "petsAllowed":true,
-      "organizer": "Carey Wales"
+      "organizer": "Islamic Youth Group"
     },
     {
       "id": 105,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
+      "category": "Dail Pray",
+      "title": "ISHA",
+      "description": "Join us Isha and Tarabi in Ramadan",
+      "location": "Masjid Al-Taufiq",
+      "time": "09:00",
       "petsAllowed":true,
-      "organizer": "Carey Wales"
+      "organizer": "Islamic Youth Group"
     }
   ]
 }
