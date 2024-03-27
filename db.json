@@ -6,7 +6,7 @@
       "title": "FAJR",
       "description": "First pray of the day before sun rises",
       "location": "Masjid Al-Taufiq, Mosque",
-      "time": "06:20",
+      "time": "06:20 AM",
       "petsAllowed":false,
       "organizer": "Islamic Youth"
     },
@@ -16,7 +16,7 @@
       "title": "Zuhr",
       "description": "Join us on time together in Jamat we can pray",
       "location": "Masjid Al-Taufiq, Mosque",
-      "time": "01:30",
+      "time": "01:30 PM",
       "petsAllowed":false,
       "organizer": "Islamic Youth"
     },
@@ -36,7 +36,7 @@
       "title": "Magrib",
       "description": "Join us on time together we can do the worship to Allah",
       "location": "Masjid Al-Taufiq",
-      "time": "07:14",
+      "time": "07:14 PM",
       "petsAllowed":true,
       "organizer": "Islamic Youth Group"
     },
@@ -46,7 +46,7 @@
       "title": "ISHA",
       "description": "Join us Isha and Tarabi in Ramadan",
       "location": "Masjid Al-Taufiq",
-      "time": "09:00",
+      "time": "09:00 PM",
       "petsAllowed":true,
       "organizer": "Islamic Youth Group"
     }
