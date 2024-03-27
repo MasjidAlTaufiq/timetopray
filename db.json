@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "id": 101,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day for Cat Lovers!",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed":true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 102,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "petsAllowed":false,
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 103,
+      "category": "Community Service",
+      "title": "Learning",
+      "description": "Help people to learn Quran",
+      "location": "Elmhurst, Mosque",
+      "date": "March 22, 2024",
+      "time": "3:00 PM",
+      "petsAllowed":false,
+      "organizer": "Youth Group"
+    },
+    {
+      "id": 104,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed":true,
+      "organizer": "Carey Wales"
+    }
+    {
+      "id": 105,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed":true,
+      "organizer": "Carey Wales"
+    }
+  ]
+}
