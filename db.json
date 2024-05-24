@@ -26,7 +26,7 @@
       "title": "ASR",
       "description": "Join us on time together in Jamat we can pray",
       "location": "Masjid Al-Taufiq, Mosque",
-      "time": "6:15 PM",
+      "time": "6:30 PM",
       "petsAllowed":false,
       "organizer": "Islamic Youth Group"
     },
@@ -36,7 +36,7 @@
       "title": "Magrib",
       "description": "Join us on time together we can do the worship to Allah",
       "location": "Masjid Al-Taufiq",
-      "time": "08:13 PM",
+      "time": "08:15 PM",
       "petsAllowed":true,
       "organizer": "Islamic Youth Group"
     },
@@ -46,7 +46,7 @@
       "title": "ISHA",
       "description": "Join us Isha and Tarabi in Ramadan",
       "location": "Masjid Al-Taufiq",
-      "time": "10:00 PM",
+      "time": "10:15 PM",
       "petsAllowed":true,
       "organizer": "Islamic Youth Group"
     }
